@@ -29,3 +29,6 @@ Mais informações sobre a instalação do `virtualenv` estão aqui <a href=http
 ## Execução
 Para facilitar a execução do projeto, é fornecido um script shell na em `scripts/start_application.sh`. <br>
 A execução deverá ocorrer na porta padrão do Flask (host:5000)
+
+## CONSUMO
+na pasta `/consumo` foram disponibilizados os scripts bash para consumo das apis disponibilizadas para o projeto (via curl)
